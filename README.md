@@ -7,5 +7,5 @@ Below is the description of all the columns in the dataset:
 * Radio: Advertising cost spent in dollars for advertising on Radio
 * Newspaper: Advertising cost spent in dollars for advertising on Newspaper
 * Sales: Number of units sold
-* 
+
 So, in the above dataset, the sales of the product depend on the advertisement cost of the product.
